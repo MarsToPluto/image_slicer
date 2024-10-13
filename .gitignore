@@ -1,0 +1,6 @@
+# Ignore the target directory
+/target
+
+# Ignore other common files
+*.rs.bk
+*.log

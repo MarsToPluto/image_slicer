@@ -1,0 +1,10 @@
+[package]
+name = "image_slicer"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust project for slicing images into pixel-sized images."
+keywords = ["image", "slicer", "rust"]
+
+[dependencies]
+image = "0.24"
+rayon = "1.6"
